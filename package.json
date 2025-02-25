@@ -37,7 +37,7 @@
     "@zachleat/filter-container": "greatislander/filter-container#feat/paginated-results",
     "decap-cms": "3.6.2",
     "eleventy-plugin-fluid": "2.7.1",
-    "infusion": "4.6.0",
+    "infusion": "4.8.0",
     "modern-css-reset": "1.4.0",
     "prop-types": "15.8.1",
     "react": "16.14.0",
