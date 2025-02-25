@@ -240,6 +240,7 @@ collections:
             fields:
               - {label: Title, name: title, widget: string}
               - {label: Intro, name: intro, widget: markdown}
+              - {label: Partners Title, name: partnersTitle, widget: string}
               - label: Partners
                 name: partners
                 widget: list
@@ -254,6 +255,8 @@ collections:
                   - {label: Link, name: link, widget: string}
                   - {label: Image, name: image, widget: image}
                   - {label: Image Alt Text, name: imageAlt, widget: string}
+              - {label: Community Title, name: communityTitle, widget: string}
+              - {label: Community Content, name: community, widget: markdown}
           - label: Connect Section
             name: connectSection
             widget: object

@@ -11,6 +11,7 @@ whatWeDoSection:
 whoSection:
   title: Who We Are
   intro: "**Weavly** is a collaborative effort between the Inclusive Design Research Centre, IRIS Institute, and the Bridges Canada. This project is funded by the Innovation, Science and Economic Development Canada’s Accessible Technology Program."
+  partnersTitle: Partners
   partners:
     - name: Inclusive Design Research Centre
       acronym: IDRC
@@ -31,6 +32,8 @@ whoSection:
       image: /assets/media/20122485921_8dfcf134e3_o.jpg
       imageAlt: "Image of several kids talking. One of the kids is seated on a powered
         wheelchair and using a single switch. "
+  communityTitle: Community
+  community: ""
 layout: layouts/about
 permalink: /about/
 goalSection:
