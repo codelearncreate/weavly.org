@@ -1,21 +1,18 @@
 .community-members {
-  column-gap: var(--space-xl);
-  display: grid;
-  grid-template-columns: 1fr;
   margin-inline: auto;
   max-inline-size: 75ch;
-  row-gap: var(--space-md);
 }
 
 .community-members .community-member {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
+  margin-block-end: var(--space-md);
   text-align: start;
 }
 
 @media (width >= 960px) {
   .community-members {
-    grid-template-columns: repeat(2, 1fr);
+    columns: 2;
   }
 }

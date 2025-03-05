@@ -48,7 +48,6 @@ whoSection:
 
 
     If you have contributed to Weavly in any capacity and would like your name to be included, please contact our team at weavly@idrc.ocadu.ca.
-
   communityMembers:
     - name: Alberta Health Services
       link: https://www.albertahealthservices.ca/
@@ -99,9 +98,13 @@ goalSection:
   callToActionLink: https://www.codelearncreate.org/blog/
 headerBg: teal-75
 title: About
-subtitle: We’re designing educational coding tools for kids who have been left
-  out of learning—especially those with complex needs. For notes on co-design
-  sessions and other project updates, please visit the [Code to Learn and Create
+subtitle: >-
+  We’re designing educational coding tools for kids who have been left out of
+  learning—especially those with complex needs.
+
+
+  For notes on co-design sessions and other project updates, please visit the [Code to Learn and Create
+
   site](https://codelearncreate.org/).
 eleventyNavigation:
   key: About
