@@ -66,7 +66,7 @@ whoSection:
     - name: Hour of Code
       link: https://hourofcode.com/ca
     - name: Kayla Children’s Centre
-      link: https://kaylaschildrencentre.org/>
+      link: https://kaylaschildrencentre.org/
     - name: Kensington Community School - Toronto District School Board
       link: https://www.tdsb.on.ca/Find-your/Schools/schno/5347
     - name: Melanie Mulcaster - Peel School Board
