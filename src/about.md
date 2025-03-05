@@ -49,90 +49,41 @@ whoSection:
 
     If you have contributed to Weavly in any capacity and would like your name to be included, please contact our team at weavly@idrc.ocadu.ca.
 
-
-    Alberta Health Services  
-
-    <https://www.albertahealthservices.ca/>
-
-
-    Beverely School - Toronto District School Board  
-
-    <https://schoolweb.tdsb.on.ca/beverleyschool>
-
-
-    Alan Bridgeman  
-
-    <https://www.linkedin.com/in/alan-bridgeman-234490113/>
-
-
-    Burnaby Schools  
-
-    <https://burnabyschools.ca/>
-
-
-    Camp Karma  
-
-    <https://www.veryspecialcamps.com/summer-camps/Karma-Country-Camp-for-Teenagers-and-Young-Adults-with-ASD-and-Special-Needs-2675.html>
-
-
-    Grandpals  
-
-    <https://grandpals.ca/>
-
-
-    Holland Bloorview  
-
-    <https://hollandbloorview.ca/>
-
-
-    Hour of Code  
-
-    <https://hourofcode.com/ca>
-
-
-    Kayla Children’s Centre  
-
-    <https://kaylaschildrencentre.org/> 
-
-
-    Kensington Community School - Toronto District School Board  
-
-    <https://www.tdsb.on.ca/Find-your/Schools/schno/5347>
-
-
-    Melanie Mulcaster - Peel School Board  
-
-    <https://www.linkedin.com/in/mel-mulcaster-9541a549/>
-
-
-    PhET Interactive Simulations - University of Colorado at Boulder  
-
-    <https://phet.colorado.edu/>
-
-
-    Playful Strides  
-
-    <https://playfulstrides.com/>
-
-
-    SD48  
-
-    <https://www.sd48seatosky.org/>
-
-
-    Taking It Global  
-
-    <https://welcome.tigweb.org/en>
-
-
-    Tetra TMU - Toronto Metropolitan University  
-
-    <https://www.instagram.com/tetratmu/>
-
-
-    Adam Wilton  
-
-    <https://www.brailleliteracycanada.ca/en/about/board/adam-wilton>
+  communityMembers:
+    - name: Alberta Health Services
+      link: https://www.albertahealthservices.ca/
+    - name: Beverely School - Toronto District School Board
+      link: https://schoolweb.tdsb.on.ca/beverleyschool
+    - name: Alan Bridgeman
+      link: https://www.linkedin.com/in/alan-bridgeman-234490113/
+    - name: Burnaby Schools
+      link: https://burnabyschools.ca/
+    - name: Camp Karma
+      link: https://www.veryspecialcamps.com/summer-camps/Karma-Country-Camp-for-Teenagers-and-Young-Adults-with-ASD-and-Special-Needs-2675.html
+    - name: Grandpals
+      link: https://grandpals.ca/
+    - name: Holland Bloorview
+      link: https://hollandbloorview.ca/
+    - name: Hour of Code
+      link: https://hourofcode.com/ca
+    - name: Kayla Children’s Centre
+      link: https://kaylaschildrencentre.org/>
+    - name: Kensington Community School - Toronto District School Board
+      link: https://www.tdsb.on.ca/Find-your/Schools/schno/5347
+    - name: Melanie Mulcaster - Peel School Board
+      link: https://www.linkedin.com/in/mel-mulcaster-9541a549/
+    - name: PhET Interactive Simulations - University of Colorado at Boulder
+      link: https://phet.colorado.edu/
+    - name: Playful Strides
+      link: https://playfulstrides.com/
+    - name: SD48
+      link: https://www.sd48seatosky.org/
+    - name: Taking It Global
+      link: https://welcome.tigweb.org/en
+    - name: Tetra TMU - Toronto Metropolitan University
+      link: https://www.instagram.com/tetratmu/
+    - name: Adam Wilton
+      link: https://www.brailleliteracycanada.ca/en/about/board/adam-wilton
 layout: layouts/about
 permalink: /about/
 goalSection:

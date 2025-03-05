@@ -41,7 +41,7 @@
   </div>
 </div>
 <div class="[ bg ]">
-  <div class="[ wrapper ] [ flow ]">
+  <div class="[ wrapper ] [ flow-lg ]">
     <h3>{{ whoSection.partnersTitle }}</h3>
     <div class="[ switcher ]">
       <div>
@@ -55,8 +55,15 @@
         {% endfor %}
       </div>
     </div>
+    <div class="[ flow ] [ prose ]">
     <h3>{{ whoSection.communityTitle }}</h3>
     {% renderString whoSection.community, "md" %}
+    </div>
+    <div class="[ community-members ]">
+      {% for communityMember in whoSection.communityMembers %}
+      <div class="[ community-member ]"><a rel="external" href="{{ communityMember.link }}">{{ communityMember.name }}</a></div>
+      {% endfor %}
+    </div>
   </div>
   <svg class="[ wave wave--bottom ]" viewBox="0 0 1437 52" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M824.685 0C1036.3 0 1325.5 31.333 1441 52H.078C82.042 52 560.164 0 824.685 0z" fill="var(--color-red-75)"/></svg>
 </div>
