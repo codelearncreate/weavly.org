@@ -257,6 +257,12 @@ collections:
                   - {label: Image Alt Text, name: imageAlt, widget: string}
               - {label: Community Title, name: communityTitle, widget: string}
               - {label: Community Content, name: community, widget: markdown}
+              - label: Community Members
+                name: communityMembers
+                widget: list
+                fields:
+                  - {label: Name, name: name, widget: string}
+                  - {label: Link, name: link, widget: string}
           - label: Connect Section
             name: connectSection
             widget: object
