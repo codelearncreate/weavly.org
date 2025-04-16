@@ -9,21 +9,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Cache node modules
-        uses: actions/cache@v4
+      - uses: actions/setup-node@v4
         with:
-          path: node_modules
-          key: ${{ runner.OS }}-build-${{ hashFiles('**/package-lock.json') }}
+          cache: npm
       - name: Install dependencies
         run: npm install
-        env:
-          CI: true
       - name: Lint files
         run: npm run lint
-        env:
-          CI: true
       - name: Build site
         run: npm run build
-        env:
-          CI: true
-
