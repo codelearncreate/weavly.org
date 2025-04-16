@@ -1,0 +1,13 @@
+.community-members .community-member {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-block-end: var(--space-md);
+  text-align: start;
+}
+
+@media (width >= 960px) {
+  .community-members {
+    columns: 2;
+  }
+}
