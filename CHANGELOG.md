@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.8.0](https://github.com/codelearncreate/weavly.org/compare/v1.7.1...v1.8.0) (2025-04-17)
+
+
+### Features
+
+* rich text for subtitles, partners and community sections ([#934](https://github.com/codelearncreate/weavly.org/issues/934)) ([f9e25cf](https://github.com/codelearncreate/weavly.org/commit/f9e25cfcdf02daa9f468adb1b66a47998c64bf32))
+
+
+### Bug Fixes
+
+* **deps:** update dependency @11ty/eleventy-navigation to v1 [skip netlify] ([#978](https://github.com/codelearncreate/weavly.org/issues/978)) ([f41b15a](https://github.com/codelearncreate/weavly.org/commit/f41b15aca621559c6d9dca9a8d1a1a48008b4320))
+
 ## [1.7.1](https://github.com/codelearncreate/weavly.org/compare/v1.7.0...v1.7.1) (2024-07-22)
 
 
