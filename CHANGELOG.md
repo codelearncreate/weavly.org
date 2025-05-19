@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.8.0](https://github.com/codelearncreate/weavly.org/compare/v1.7.1...v1.8.0) (2025-05-19)
+
+
+### Features
+
+* add content license ([#989](https://github.com/codelearncreate/weavly.org/issues/989)) ([007938f](https://github.com/codelearncreate/weavly.org/commit/007938f726e8fd17c2f24fcad1a049e3cc787b8d))
+* rich text for subtitles, partners and community sections ([#934](https://github.com/codelearncreate/weavly.org/issues/934)) ([f9e25cf](https://github.com/codelearncreate/weavly.org/commit/f9e25cfcdf02daa9f468adb1b66a47998c64bf32))
+
+
+### Bug Fixes
+
+* **deps:** update dependency @11ty/eleventy-img to v6.0.3 [skip netlify] ([#998](https://github.com/codelearncreate/weavly.org/issues/998)) ([3daddb2](https://github.com/codelearncreate/weavly.org/commit/3daddb22be79fb3cba2838bde83c193035edd6fd))
+* **deps:** update dependency @11ty/eleventy-img to v6.0.4 [skip netlify] ([#1003](https://github.com/codelearncreate/weavly.org/issues/1003)) ([9b2833d](https://github.com/codelearncreate/weavly.org/commit/9b2833d03402de423ee71e8bdcbdb1fce9e6f666))
+* **deps:** update dependency @11ty/eleventy-navigation to v1 [skip netlify] ([#978](https://github.com/codelearncreate/weavly.org/issues/978)) ([f41b15a](https://github.com/codelearncreate/weavly.org/commit/f41b15aca621559c6d9dca9a8d1a1a48008b4320))
+* **deps:** update dependency @babel/standalone to v7.27.1 [skip netlify] ([#992](https://github.com/codelearncreate/weavly.org/issues/992)) ([2d8f4e6](https://github.com/codelearncreate/weavly.org/commit/2d8f4e6bf54fca85b079197544e1489f7d205a46))
+* **deps:** update dependency @babel/standalone to v7.27.2 [skip netlify] ([#996](https://github.com/codelearncreate/weavly.org/issues/996)) ([add872f](https://github.com/codelearncreate/weavly.org/commit/add872f727f68adecedc662e814f5cd6558adb25))
+* **deps:** update dependency decap-cms to v3.6.3 [skip netlify] ([#1005](https://github.com/codelearncreate/weavly.org/issues/1005)) ([a0ad472](https://github.com/codelearncreate/weavly.org/commit/a0ad472ad9e899e7e801ea0df6e296e730c6889a))
+
 ## [1.7.1](https://github.com/codelearncreate/weavly.org/compare/v1.7.0...v1.7.1) (2024-07-22)
 
 
