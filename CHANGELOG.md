@@ -2,6 +2,40 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.8.0](https://github.com/codelearncreate/weavly.org/compare/v1.7.1...v1.8.0) (2026-01-28)
+
+
+### Features
+
+* add content license ([#989](https://github.com/codelearncreate/weavly.org/issues/989)) ([007938f](https://github.com/codelearncreate/weavly.org/commit/007938f726e8fd17c2f24fcad1a049e3cc787b8d))
+* rich text for subtitles, partners and community sections ([#934](https://github.com/codelearncreate/weavly.org/issues/934)) ([f9e25cf](https://github.com/codelearncreate/weavly.org/commit/f9e25cfcdf02daa9f468adb1b66a47998c64bf32))
+* use GitHub backend ([#1059](https://github.com/codelearncreate/weavly.org/issues/1059)) ([c8f41e7](https://github.com/codelearncreate/weavly.org/commit/c8f41e7433e7a31f83d7f8c50a8fe08bb40a38c1))
+
+
+### Bug Fixes
+
+* **deps:** update dependency @11ty/eleventy-img to v6.0.3 [skip netlify] ([#998](https://github.com/codelearncreate/weavly.org/issues/998)) ([3daddb2](https://github.com/codelearncreate/weavly.org/commit/3daddb22be79fb3cba2838bde83c193035edd6fd))
+* **deps:** update dependency @11ty/eleventy-img to v6.0.4 [skip netlify] ([#1003](https://github.com/codelearncreate/weavly.org/issues/1003)) ([9b2833d](https://github.com/codelearncreate/weavly.org/commit/9b2833d03402de423ee71e8bdcbdb1fce9e6f666))
+* **deps:** update dependency @11ty/eleventy-navigation to v1 [skip netlify] ([#978](https://github.com/codelearncreate/weavly.org/issues/978)) ([f41b15a](https://github.com/codelearncreate/weavly.org/commit/f41b15aca621559c6d9dca9a8d1a1a48008b4320))
+* **deps:** update dependency @babel/standalone to v7.27.1 [skip netlify] ([#992](https://github.com/codelearncreate/weavly.org/issues/992)) ([2d8f4e6](https://github.com/codelearncreate/weavly.org/commit/2d8f4e6bf54fca85b079197544e1489f7d205a46))
+* **deps:** update dependency @babel/standalone to v7.27.2 [skip netlify] ([#996](https://github.com/codelearncreate/weavly.org/issues/996)) ([add872f](https://github.com/codelearncreate/weavly.org/commit/add872f727f68adecedc662e814f5cd6558adb25))
+* **deps:** update dependency @babel/standalone to v7.27.3 [skip netlify] ([#1008](https://github.com/codelearncreate/weavly.org/issues/1008)) ([78e2fb9](https://github.com/codelearncreate/weavly.org/commit/78e2fb95dcaadc9c9f50c9d51b4184341ab76e2f))
+* **deps:** update dependency @babel/standalone to v7.27.4 [skip netlify] ([#1009](https://github.com/codelearncreate/weavly.org/issues/1009)) ([a2bfaa7](https://github.com/codelearncreate/weavly.org/commit/a2bfaa7a86ec094bd85e9465109055c329ee0f0c))
+* **deps:** update dependency @babel/standalone to v7.27.5 [skip netlify] ([#1013](https://github.com/codelearncreate/weavly.org/issues/1013)) ([78d866c](https://github.com/codelearncreate/weavly.org/commit/78d866c1ce1b173abbf6b9afacbbf4b7cc4a2adb))
+* **deps:** update dependency @babel/standalone to v7.27.6 [skip netlify] ([#1015](https://github.com/codelearncreate/weavly.org/issues/1015)) ([01b73ab](https://github.com/codelearncreate/weavly.org/commit/01b73ab904ddec6d1eec79bc64d9f3a5b5a55b52))
+* **deps:** update dependency @babel/standalone to v7.27.7 [skip netlify] ([#1025](https://github.com/codelearncreate/weavly.org/issues/1025)) ([3fce49c](https://github.com/codelearncreate/weavly.org/commit/3fce49c6a59cfc1552f8065beaab23ed256657f3))
+* **deps:** update dependency @babel/standalone to v7.28.0 [skip netlify] ([#1027](https://github.com/codelearncreate/weavly.org/issues/1027)) ([8064931](https://github.com/codelearncreate/weavly.org/commit/8064931d51416acd9f719dfcfd6a75232b807175))
+* **deps:** update dependency @babel/standalone to v7.28.1 [skip netlify] ([#1030](https://github.com/codelearncreate/weavly.org/issues/1030)) ([0d01188](https://github.com/codelearncreate/weavly.org/commit/0d0118893c13eb1da4ec44e5e7152f1586a58ec1))
+* **deps:** update dependency @babel/standalone to v7.28.2 [skip netlify] ([#1035](https://github.com/codelearncreate/weavly.org/issues/1035)) ([9d2c309](https://github.com/codelearncreate/weavly.org/commit/9d2c309dba39d0d753ad8bf48f9de04bd1939c8b))
+* **deps:** update dependency @babel/standalone to v7.28.4 [skip netlify] ([#1047](https://github.com/codelearncreate/weavly.org/issues/1047)) ([99c0ee2](https://github.com/codelearncreate/weavly.org/commit/99c0ee286dbe4d3e8b1b92f38f0cfb3fc2ec4531))
+* **deps:** update dependency decap-cms to v3.6.3 [skip netlify] ([#1005](https://github.com/codelearncreate/weavly.org/issues/1005)) ([a0ad472](https://github.com/codelearncreate/weavly.org/commit/a0ad472ad9e899e7e801ea0df6e296e730c6889a))
+* **deps:** update dependency decap-cms to v3.6.4 [skip netlify] ([#1016](https://github.com/codelearncreate/weavly.org/issues/1016)) ([2a4a12d](https://github.com/codelearncreate/weavly.org/commit/2a4a12d3ff674640b199e91977814f4090b58b4b))
+* **deps:** update dependency decap-cms to v3.7.1 [skip netlify] ([#1024](https://github.com/codelearncreate/weavly.org/issues/1024)) ([cabeb2b](https://github.com/codelearncreate/weavly.org/commit/cabeb2b29563ad51d4adb97d9cde932fb2173f64))
+* **deps:** update dependency decap-cms to v3.7.2 [skip netlify] ([#1029](https://github.com/codelearncreate/weavly.org/issues/1029)) ([123d7bd](https://github.com/codelearncreate/weavly.org/commit/123d7bd8d44a93186f6e82ca53f947ee7a03b907))
+* **deps:** update dependency decap-cms to v3.8.0 [skip netlify] ([#1032](https://github.com/codelearncreate/weavly.org/issues/1032)) ([6f660e0](https://github.com/codelearncreate/weavly.org/commit/6f660e04992e905792a2bb6dc36a07cfc710a339))
+* **deps:** update dependency decap-cms to v3.8.2 [skip netlify] ([#1034](https://github.com/codelearncreate/weavly.org/issues/1034)) ([3afbb6f](https://github.com/codelearncreate/weavly.org/commit/3afbb6f9a392dcd7c01adfca2bc820e5d559816f))
+* **deps:** update dependency decap-cms to v3.8.3 [skip netlify] ([#1040](https://github.com/codelearncreate/weavly.org/issues/1040)) ([be6cbed](https://github.com/codelearncreate/weavly.org/commit/be6cbed331d36de2abbabb0a3a49ec561e184663))
+
 ## [1.7.1](https://github.com/codelearncreate/weavly.org/compare/v1.7.0...v1.7.1) (2024-07-22)
 
 
